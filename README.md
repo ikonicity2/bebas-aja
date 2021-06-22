@@ -1,2 +1,2 @@
 # bebas-aja
-jyhf
+perubahan kode dilacak oleg git
